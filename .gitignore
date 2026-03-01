@@ -1,1 +1,16 @@
-.venv*\n__pycache__/\n*.pyc\n*.db\n.env\n.idea\n.vscode\n.DS_Store\n
+# Local artifacts
+Cycles/
+cyclesgym/
+farm_duel.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite
+*.db
+.venv*/
+.DS_Store
+.env
+.idea/
+.vscode/
+
